@@ -4,7 +4,7 @@
 
 <br/>
 
-<h2>Como funciona as variáveis ao utilizar o React:</h2>
+<h2>Como funcionam as variáveis ao utilizar o React:</h2>
 
 Quando usamos o React para desenvolver um projeto, precisamos ter em mente o modo que ele funciona e como ele se difere do uso padrão do Javascript que estamos acostumados.
 Ao nos adentrarmos nos estudos de React pela primeira vez percebemos que as variáveis são tratadas de forma diferente por este framework, mas por que?
@@ -17,7 +17,8 @@ Se tivermos o número 0 em uma variável com o nome _numero_ e criarmos uma fun�
 
 <img src="https://i.imgur.com/p8Bgzek.png" />
 
-Por que isso acontece? Isso acontece porque ao mudar uma informação do componente, tudo será executado novamente, assim a variável retornará seu valor para 0.
+<h2>Por que isso acontece?</h2>
+Isso acontece porque ao mudar uma informação do componente, tudo será executado novamente, assim a variável retornará seu valor para 0.
 E é assim que o aprendizado do useState se torna imprescindível para dominarmos o React.
 
 <br/>
